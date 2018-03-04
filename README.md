@@ -22,7 +22,7 @@ where the values translate as:
 * 1: black pixel
 * 2: red pixel
 
-_Note: if your `matrix` is smaller than 212x104, it will be drawn in from the top left corner and the remainder of the display will be padded with white pixels_ 
+_Note: if your `matrix` is smaller than 212x104, it will be rendered from the top left corner and the remainder of the display will be padded with white pixels_ 
 
 ## Running it
 
